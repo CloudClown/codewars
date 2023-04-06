@@ -18,6 +18,6 @@ var cubeChecker = function(volume, side){
   };
   
   
-  console.warn(cubeChecker(0, 0))
+  console.log(cubeChecker(0, 0))
   
   
