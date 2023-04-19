@@ -7,3 +7,5 @@ function fixTheMeerkat(arr) {
 
 const result = fixTheMeerkat(["lower legs", "torso", "upper legs"]);
 console.log(result);
+
+// checking whether the github is high or me 
